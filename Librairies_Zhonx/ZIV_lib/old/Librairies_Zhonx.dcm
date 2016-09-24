@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Mosfet_N
+F transistors/mos/*.*
+$ENDCMP
+#
+#End Doc Library
